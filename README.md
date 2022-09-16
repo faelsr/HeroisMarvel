@@ -8,3 +8,13 @@
 
 Versão 1.0
 
+Código ainda não refaturado.
+
+Usada a API da Marvel
+
+PODS usados
+
+AlamoFire
+Kingfisher
+Swifthash
+
